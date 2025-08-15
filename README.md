@@ -36,7 +36,7 @@ A secure, transparent, and efficient **Public Ration Distribution System** power
 ![Admin Dashboard](https://github.com/anushka-sys/Public-Ration-Distribution-using-Blockchain/blob/master/Screenshot%20of%20Projects/image-007.jpg?raw=true)
 
 ### **Blockchain Ledger View**
-![Blockchain Ledger](assets/blockchain-ledger.png)
+![Blockchain Ledger](https://github.com/anushka-sys/Public-Ration-Distribution-using-Blockchain/blob/master/Screenshot%20of%20Projects/image-008.jpg?raw=true)
 
 ---
 
