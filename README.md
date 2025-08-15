@@ -4,11 +4,6 @@ A secure, transparent, and efficient **Public Ration Distribution System** power
 
 ---
 
-## 🔗 Live Demo (Optional)
-[View Project 🚀](https://your-live-link.com)  
-
----
-
 ## 📌 Tech Stack
 
 ### **Backend**
@@ -38,7 +33,7 @@ A secure, transparent, and efficient **Public Ration Distribution System** power
 ![Login Page](assets/login.png)
 
 ### **Admin Dashboard**
-![Admin Dashboard](assets/admin-dashboard.png)
+![Admin Dashboard](https://github.com/anushka-sys/Public-Ration-Distribution-using-Blockchain/blob/master/Screenshot%20of%20Projects/image-007.jpg?raw=true)
 
 ### **Blockchain Ledger View**
 ![Blockchain Ledger](assets/blockchain-ledger.png)
